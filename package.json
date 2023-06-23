@@ -1,0 +1,7 @@
+{
+  "name": "cicd-example",
+  "packages": {},
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
